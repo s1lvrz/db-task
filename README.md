@@ -4,6 +4,8 @@ A simple app: a form (name + age) saves data to MySQL, displays it in a table,
 lets you flip each user's status (0/1) with a **Toggle** button, and delete
 entries with a **Delete** button — all without reloading the page (AJAX).
 
+<img width="1353" height="700" alt="image" src="https://github.com/s1lvrz/db-task/blob/main/image.png" />
+
 ## Files
 
 | File | Purpose |
